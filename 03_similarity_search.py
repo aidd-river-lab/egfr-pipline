@@ -16,7 +16,7 @@ def run_similarity_search():
     print("🚀 [Step 3/4] 正在计算与奥希替尼的 Tanimoto 结构相似度...")
     ref_fp = smiles_to_fp(OSIMERTINIB_SMILES)
     
-    df = pd.read_csv("egfr_filtered_druglike.csv")
+    df = pd.read_csv("egfr_knowledge_filtered.csv")
     
     similarities = []
     for smiles in df['smiles']:

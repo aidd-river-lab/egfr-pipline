@@ -1,0 +1,6 @@
+chembl_id,binding_affinity_kcal_mol,docked_file
+CHEMBL126062,0.0,docking_results/CHEMBL126062_docked.pdbqt
+CHEMBL53711,0.0,docking_results/CHEMBL53711_docked.pdbqt
+CHEMBL169065,0.0,docking_results/CHEMBL169065_docked.pdbqt
+CHEMBL169920,0.0,docking_results/CHEMBL169920_docked.pdbqt
+CHEMBL126097,0.0,docking_results/CHEMBL126097_docked.pdbqt

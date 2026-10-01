@@ -1,0 +1,6 @@
+chembl_id,smiles,ic50_nm,mw,logp,tanimoto_similarity
+CHEMBL53711,CN(C)c1cc2c(Nc3cccc(Br)c3)ncnc2cn1,0.006,344.22,3.6,0.0
+CHEMBL169065,COC(=O)CN1CCC(n2cc(-c3cccc(OC)c3)c3c(N)ncnc32)CC1,1470.0,395.46,2.5,0.0
+CHEMBL126062,Nc1cc2ncnc(NCc3ccccc3C(F)(F)F)c2cn1,10000.0,319.29,3.24,0.0
+CHEMBL169920,CN(C)C(=O)CN1CCC(n2cc(-c3cccc(O)c3)c3c(N)ncnc32)CC1,10000.0,394.48,2.11,0.0
+CHEMBL126097,Nc1cc2ncnc(NCc3ccc([N+](=O)[O-])cc3)c2cn1,10000.0,296.29,2.13,0.0
